@@ -14,5 +14,5 @@ AUTH0_MANAGEMENT_API_CLIENT_SECRET=<corresponding secret>
 
 ## run 
 
-`npm install && npm atart`
+`npm install && npm start`
 

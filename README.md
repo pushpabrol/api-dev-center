@@ -1,4 +1,4 @@
-# dev-center-api
+# Api for Dev Center 
 
 ## Setup
 - Create .env file
